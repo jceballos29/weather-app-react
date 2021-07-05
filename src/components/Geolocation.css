@@ -1,0 +1,15 @@
+.Geolocation {
+    margin-top: 50px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.Geolocation i {
+    margin-left: 20px;
+    font-size: 2.5rem;
+}
+
+.Geolocation h3 {
+    font-size: 1.8rem
+}
